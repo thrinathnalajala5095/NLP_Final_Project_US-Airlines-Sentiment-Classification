@@ -1,5 +1,4 @@
 # NLP_Final_Project_US-Airlines-Sentiment-Classification
-NLP_US_Airlines_Sentiment_Project_BERT_DISTILBERT
 US Airlines Sentiment Classification Using BERT and DISTILBERT
 
 US-Airlines-Sentiment-Classification
